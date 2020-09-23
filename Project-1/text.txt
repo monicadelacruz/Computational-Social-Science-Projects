@@ -1,0 +1,11 @@
+cd desktop
+cd CSS
+git clone https://github.com/monicadelacruz/Computational-Social-Science-Projects.git
+cd Computational-Social-Science-Projects
+mkdir Project-1
+cd Project-1
+touch text.txt
+vim text.txt
+git add Project-1
+git commit -m "Added Project 1 folder and text file"
+git push
